@@ -13,7 +13,7 @@
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=java" width="50"/><br>
       <b style="color: #ffffff; font-family: monospace;">JAVA</b><br>
-      <img src="https://progress-bar.dev/25/?scale=100&title=Projects&width=100&color=ED8B00&suffix=%" alt="Progreso">
+      <img src="https://progress-bar.dev/26/?scale=100&title=Projects&width=100&color=ED8B00&suffix=%" alt="Progreso">
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
